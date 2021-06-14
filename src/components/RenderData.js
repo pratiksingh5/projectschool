@@ -211,7 +211,7 @@ function RenderData(props) {
                               </Button>
                             );
                           })
-                        : "not available"}
+                        : "Not available"}
                     </AccordionDetails>
                   </Accordion>
                   <Accordion className={classes.main}>
@@ -243,7 +243,7 @@ function RenderData(props) {
                               </Button>
                             );
                           })
-                        : "not available"}
+                        : "Not available"}
                     </AccordionDetails>
                   </Accordion>
                   <Accordion className={classes.main}>
@@ -275,7 +275,7 @@ function RenderData(props) {
                               </Button>
                             );
                           })
-                        : "not available"}
+                        : "Not available"}
                     </AccordionDetails>
                   </Accordion>
 
