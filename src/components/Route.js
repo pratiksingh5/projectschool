@@ -28,7 +28,7 @@ function Route(props) {
 					}}
 					style={routeTitleStyle}>
 					<Link to={props.firstRoute}>
-						<h3>{props.firstRouteName} </h3>
+						<h3>{props.firstRouteName}</h3>
 					</Link>
 				</div>
 				<div className="route-title-in">

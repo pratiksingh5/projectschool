@@ -47,7 +47,7 @@ function RenderData(props) {
   const [m2Style, setM2Style] = useState({ display: "none" });
 
   useEffect(() => {
-    console.log("path changed");
+    // console.log("path changed");
     const data = jsonData.filter((f) => {
       return path === "/1to1"
         ? f.type === "1to1"
@@ -55,8 +55,8 @@ function RenderData(props) {
         ? f.type === "1ton"
         : path === "/school"
         ? f.type === "school"
-        : path 
-        // : path === path
+        // : path 
+        : path === path
 
         ? f.path === path
         : f.country;

@@ -1,11 +1,11 @@
 [
 	{
 		"type": "1to1",
-		"country": "india",
-		"grade": "Grade 1-2",
+		"country": "India",
+		"grade": "Grade 1 - 2",
 		"tech": "Game Development",
 		"data": "1to1/india/1-2/game",
-		"demo": ["demo1", "demo2", "demo3", "demo4", "demo5"],
+		"demo": ["demoprojectlink", "demoprojecttemplatelink", "slidelink", "onepagerlink", "videolink"],
 		"links1": [
 			{
 				"link": [
@@ -264,7 +264,7 @@
 				]
 			}
 		],
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	{
 		"type": "1:1",
@@ -530,23 +530,23 @@
 				]
 			}
 		],
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	{
 		"type": "1to1",
-		"country": "india",
-		"grade": "1-2",
+		"country": "India",
+		"grade": "Grade 1 - 2",
 		"tech": "app",
 		"data": "1to1/india/1-2/app",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	{
 		"type": "1to1",
-		"country": "india",
-		"grade": "1-2",
-		"tech": "3dwithvr",
+		"country": "India",
+		"grade": "Grade 1 - 2",
+		"tech": "Virtual Reality",
 		"data": "1to1/india/1-2/3dwithvr",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 
 	{
@@ -813,11 +813,11 @@
 				]
 			}
 		],
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	{
 		"type": "1:1",
-		"country": "india",
+		"country": "India",
 		"grade": "Grade 3 - 4",
 		"tech": "App Development",
 		"data": "1:1/India/Grade 3 - 4/App Development",
@@ -1079,48 +1079,48 @@
 				]
 			}
 		],
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	{
 		"type": "1to1",
-		"country": "india",
+		"country": "India",
 		"grade": "3-4",
-		"tech": "3dwithvr",
+		"tech": "Virtual Reality",
 		"data": "1to1/india/3-4/3dwithvr",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	{
 		"type": "1to1",
-		"country": "india",
+		"country": "India",
 		"grade": "3-4",
-		"tech": "aiwithml",
+		"tech": "AI with ML",
 		"data": "1to1/india/3-4/aiwithml",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 
 	{
 		"type": "1to1",
-		"country": "india",
+		"country": "India",
 		"grade": "5-6",
 		"tech": "app",
 		"data": "1to1/india/5-6/app",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	{
 		"type": "1to1",
-		"country": "india",
+		"country": "India",
 		"grade": "5-6",
-		"tech": "3dwithvr",
+		"tech": "Virtual Reality",
 		"data": "1to1/india/5-6/3dwithvr",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	{
 		"type": "1to1",
-		"country": "india",
+		"country": "India",
 		"grade": "5-6",
-		"tech": "aiwithml",
+		"tech": "AI with ML",
 		"data": "1to1/india/5-6/aiwithml",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	{
 		"type": "1:1",
@@ -1386,89 +1386,89 @@
 				]
 			}
 		],
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	
 	{
 		"type": "1to1",
-		"country": "india",
+		"country": "India",
 		"grade": "5-6",
 		"tech": "python",
 		"data": "1to1/india/5-6/python-selfdrivingcar",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 
 	{
 		"type": "1to1",
-		"country": "india",
+		"country": "India",
 		"grade": "7-8",
-		"tech": "3dwithvr",
+		"tech": "Virtual Reality",
 		"data": "1to1/india/7-8/3dwithvr",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	{
 		"type": "1to1",
-		"country": "india",
+		"country": "India",
 		"grade": "7-8",
-		"tech": "aiwithml",
+		"tech": "AI with ML",
 		"data": "1to1/india/7-8/aiwithml",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	{
 		"type": "1to1",
-		"country": "india",
+		"country": "India",
 		"grade": "7-8",
 		"tech": "web",
 		"data": "1to1/india/7-8/web",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	{
 		"type": "1to1",
-		"country": "india",
+		"country": "India",
 		"grade": "7-8",
 		"tech": "python",
 		"data": "1to1/india/7-8/python-selfdrivingcar",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 
 	{
 		"type": "1to1",
-		"country": "india",
-		"grade": "9-12",
-		"tech": "3dwithvr",
+		"country": "India",
+		"grade": "Grade 9 - 12",
+		"tech": "Virtual Reality",
 		"data": "1to1/india/9-12/3dwithvr",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	{
 		"type": "1to1",
-		"country": "india",
-		"grade": "9-12",
-		"tech": "aiwithml",
+		"country": "India",
+		"grade": "Grade 9 - 12",
+		"tech": "AI with ML",
 		"data": "1to1/india/9-12/aiwithml",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	{
 		"type": "1to1",
-		"country": "india",
-		"grade": "9-12",
+		"country": "India",
+		"grade": "Grade 9 - 12",
 		"tech": "web",
 		"data": "1to1/india/9-12/web",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 	{
 		"type": "1to1",
-		"country": "india",
-		"grade": "9-12",
+		"country": "India",
+		"grade": "Grade 9 - 12",
 		"tech": "python",
 		"data": "1to1/india/9-12/python-selfdrivingcar",
-		"path": "/1to1/india"
+		"path": "/1to1/India"
 	},
 
 	{
 		"type": "1to1",
 		"country": "usa",
 		"grade": "3-4",
-		"tech": "3dwithvr",
+		"tech": "Virtual Reality",
 		"data": "1to1/usa/3-4/3dwithvr",
 		"path": "/1to1/usa"
 	},
@@ -1477,7 +1477,7 @@
 		"type": "1to1",
 		"country": "usa",
 		"grade": "5-6",
-		"tech": "3dwithvr",
+		"tech": "Virtual Reality",
 		"data": "1to1/usa/5-6/3dwithvr",
 		"path": "/1to1/usa"
 	},
@@ -1502,7 +1502,7 @@
 		"type": "1to1",
 		"country": "usa",
 		"grade": "7-8",
-		"tech": "3dwithvr",
+		"tech": "Virtual Reality",
 		"data": "1to1/usa/7-8/3dwithvr",
 		"path": "/1to1/usa"
 	},
@@ -1526,15 +1526,15 @@
 	{
 		"type": "1to1",
 		"country": "usa",
-		"grade": "9-12",
-		"tech": "3dwithvr",
+		"grade": "Grade 9 - 12",
+		"tech": "Virtual Reality",
 		"data": "1to1/usa/9-12/3dwithvr",
 		"path": "/1to1/usa"
 	},
 	{
 		"type": "1to1",
 		"country": "usa",
-		"grade": "9-12",
+		"grade": "Grade 9 - 12",
 		"tech": "web",
 		"data": "1to1/usa/9-12/web",
 		"path": "/1to1/usa"
@@ -1542,7 +1542,7 @@
 	{
 		"type": "1to1",
 		"country": "usa",
-		"grade": "9-12",
+		"grade": "Grade 9 - 12",
 		"tech": "python-selfdrivingcar",
 		"data": "1to1/usa/9-12/python-selfdrivingcar",
 		"path": "/1to1/usa"
@@ -1812,7 +1812,7 @@
 				]
 			}
 		],
-		"path": "/1ton/india"
+		"path": "/1ton/India"
 	},
 	{
 		"type": "1:N",
@@ -2079,7 +2079,7 @@
 			}
 		],
 		
-		"path": "/1ton/india"
+		"path": "/1ton/India"
 	},
 	{
 		"type": "1:N",
@@ -2346,14 +2346,14 @@
 			}
 		],
 		
-		"path": "/1ton/india"
+		"path": "/1ton/India"
 	},
 	{
 		"type": "1:N",
 		"country": "India",
-		"grade": "Grade 1-4",
+		"grade": "Grade 1 - 4",
 		"tech": "VR Juniors",
-		"data": "1:N/India/Grade 1-4/VR Juniors",
+		"data": "1:N/India/Grade 1 - 4/VR Juniors",
 		"links1": [
             {
                 "link": [
@@ -2881,7 +2881,7 @@
 				]
 			}
 		],
-		"path": "/1ton/india"
+		"path": "/1ton/India"
 	},
 	{
 		"type": "1:N",
@@ -3148,7 +3148,7 @@
             }
         ],
 
-		"path": "/1ton/india"
+		"path": "/1ton/India"
 	},
 	{
 		"type": "1:N",
@@ -3415,12 +3415,12 @@
             }
         ],
 
-		"path": "/1ton/india"
+		"path": "/1ton/India"
 	},
 	{
 		"type": "1:N",
 		"country": "India",
-		"grade": "Grade 5-8",
+		"grade": "Grade 5 - 8",
 		"tech": "Web Development",
 		"data": "1:N/India/Grade 5-8/Web Development",
 		"links1": [                                           
@@ -3681,48 +3681,48 @@
 				]
 			}
 		],
-		"path": "/1ton/india"
+		"path": "/1-N/India"
 	},
 	{
 		"type": "1ton",
-		"country": "india",
-		"grade": "5-8",
+		"country": "India",
+		"grade": "Grade 5 - 8",
 		"tech": "python",
 		"data": "1ton/india/5-8/python-selfdrivingcar",
-		"path": "/1ton/india"
+		"path": "/1ton/India"
 	},
 
 	{
 		"type": "1ton",
-		"country": "india",
-		"grade": "9-12",
-		"tech": "3dwithvr",
+		"country": "India",
+		"grade": "Grade 9 - 12",
+		"tech": "Virtual Reality",
 		"data": "1ton/india/9-12/3dwithvr",
-		"path": "/1ton/india"
+		"path": "/1ton/India"
 	},
 	{
 		"type": "1ton",
-		"country": "india",
-		"grade": "9-12",
-		"tech": "aiwithml",
+		"country": "India",
+		"grade": "Grade 9 - 12",
+		"tech": "AI with ML",
 		"data": "1ton/india/9-12/aiwithml",
-		"path": "/1ton/india"
+		"path": "/1ton/India"
 	},
 	{
 		"type": "1ton",
-		"country": "india",
-		"grade": "9-12",
+		"country": "India",
+		"grade": "Grade 9 - 12",
 		"tech": "web",
 		"data": "1ton/india/9-12/web",
-		"path": "/1ton/india"
+		"path": "/1ton/India"
 	},
 	{
 		"type": "1ton",
-		"country": "india",
-		"grade": "9-12",
+		"country": "India",
+		"grade": "Grade 9 - 12",
 		"tech": "python",
 		"data": "1ton/india/9-12/python-selfdrivingcar",
-		"path": "/1ton/india"
+		"path": "/1ton/India"
 	},
 
 	{
@@ -3737,7 +3737,7 @@
 		"type": "school",
 		"country": "bootcamp",
 		"grade": "3-5",
-		"tech": "3dwithvr",
+		"tech": "Virtual Reality",
 		"data": "school/bootcamp/3-5/3dwithvr",
 		"path": "/school/bootcamp"
 	},
@@ -3746,7 +3746,7 @@
 		"type": "school",
 		"country": "bootcamp",
 		"grade": "6-8",
-		"tech": "3dwithvr",
+		"tech": "Virtual Reality",
 		"data": "school/bootcamp/6-8/3dwithvr",
 		"path": "/school/bootcamp"
 	},
@@ -3754,7 +3754,7 @@
 		"type": "school",
 		"country": "bootcamp",
 		"grade": "6-8",
-		"tech": "aiwithml",
+		"tech": "AI with ML",
 		"data": "school/bootcamp/6-8/aiwithml",
 		"path": "/school/bootcamp"
 	},
@@ -3762,16 +3762,16 @@
 	{
 		"type": "school",
 		"country": "bootcamp",
-		"grade": "9-12",
-		"tech": "3dwithvr",
+		"grade": "Grade 9 - 12",
+		"tech": "Virtual Reality",
 		"data": "school/bootcamp/9-12/3dwithvr",
 		"path": "/school/bootcamp"
 	},
 	{
 		"type": "school",
 		"country":"bootcamp",
-		"grade": "9-12",
-		"tech": "aiwithml",
+		"grade": "Grade 9 - 12",
+		"tech": "AI with ML",
 		"data": "school/bootcamp/9-12/aiwithml",
 		"path": "/school/bootcamp"
 	},
@@ -3780,7 +3780,7 @@
 		"type": "school",
 		"country": "webinar",
 		"grade": "3-5",
-		"tech": "3dwithvr",
+		"tech": "Virtual Reality",
 		"data": "school/webinar/3-5/3dwithvr",
 		"path": "/school/webinar"
 	},
@@ -3789,16 +3789,16 @@
 		"type": "school",
 		"country": "webinar",
 		"grade": "6-8",
-		"tech": "3dwithvr",
+		"tech": "Virtual Reality",
 		"data": "school/webinar/6-8/3dwithvr",
 		"path": "/school/webinar"
 	},
 
 	{
-		"type": "school",
-		"country": "webinar",
-		"grade": "9-12",
-		"tech": "3dwithvr",
+		"type": "School",
+		"country": "Webinar",
+		"grade": "Grade 9 - 12",
+		"tech": "Virtual Reality",
 		"data": "school/webinar/9-12/3dwithvr",
 		"path": "/school/webinar"
 	}

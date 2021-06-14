@@ -26,7 +26,7 @@ export const SidebarData = [
 	},
 	{
 		title: "1:N",
-		path: "/1ton",
+		path: "/1toon",
 		icon: <FaIcons.FaUserFriends />,
 		iconClosed: <RiIcons.RiArrowDownSFill />,
 		iconOpened: <RiIcons.RiArrowUpSFill />,
@@ -34,7 +34,7 @@ export const SidebarData = [
 		subNav: [
 			{
 				title: "India",
-				path: "/1ton/india",
+				path: "/1-N/India",
 				icon: <IoIcons.IoIosPaper />,
 				cName: "sub-nav",
 			},
