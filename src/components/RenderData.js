@@ -120,7 +120,7 @@ function RenderData(props) {
 
             <option value="">Select Grade</option>
             {Drops1.map((d) => {
-              return <option value={d}> {d} </option>;
+              return <option key={d} value={d}> {d} </option>;
             })}
           </select>
 
@@ -135,7 +135,7 @@ function RenderData(props) {
           >
             <option value="">Select Tech</option>
             {thirdData.map((d) => {
-              return <option value={d.tech}> {d.tech} </option>;
+              return <option key={d.tech} value={d.tech}> {d.tech} </option>;
             })}
           </select>
         </div>
@@ -171,12 +171,15 @@ function RenderData(props) {
                                 }}
                                 className={classes.btnStyle}
                                 color="primary"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                href={l1}
                               >
-                                Session-{index + 1}
+                               	{index===0 ? 'Project' : index===1 ? 'Project Template' : index ===2 ? 'One Pager' : index===3 ? 'Slides' : 'Explainer Video'}
                               </Button>
                             );
                           })
-                        : "not available"}
+                        : "Not available"}
                     </AccordionDetails>
                   </Accordion>
                   <Accordion className={classes.main}>

@@ -6,7 +6,7 @@ import * as RiIcons from "react-icons/ri"
 export const SidebarData = [
 	{
 		title: "1:1",
-		path: "/1to1",
+		path: "/1-1",
 		icon: <FaIcons.FaUserAlt />,
 		iconClosed: <RiIcons.RiArrowDownSFill />,
 		iconOpened: <RiIcons.RiArrowUpSFill />,
@@ -14,19 +14,19 @@ export const SidebarData = [
 		subNav: [
 			{
 				title: "India",
-				path: "/1to1/india",
+				path: "/1-1/India",
 				icon: <IoIcons.IoIosPaper />,
 			},
 			{
 				title: "USA",
-				path: "/1to1/usa",
+				path: "/1-1/USA",
 				icon: <IoIcons.IoIosPaper />,
 			},
 		],
 	},
 	{
 		title: "1:N",
-		path: "/1toon",
+		path: "/1-N",
 		icon: <FaIcons.FaUserFriends />,
 		iconClosed: <RiIcons.RiArrowDownSFill />,
 		iconOpened: <RiIcons.RiArrowUpSFill />,
@@ -42,7 +42,7 @@ export const SidebarData = [
 	},
 	{
 		title: "School",
-		path: "/school",
+		path: "/School",
 		icon: <FaIcons.FaSchool />,
 
 		iconClosed: <RiIcons.RiArrowDownSFill />,
@@ -51,12 +51,12 @@ export const SidebarData = [
 		subNav: [
 			{
 				title: "Bootcamps",
-				path: "/school/bootcamp",
+				path: "/School/Bootcamp",
 				icon: <IoIcons.IoIosPaper />,
 			},
 			{
 				title: "Webinar",
-				path: "/school/webinar",
+				path: "/School/Webinar",
 				icon: <IoIcons.IoIosPaper />,
 			},
 			// {
