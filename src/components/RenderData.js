@@ -55,7 +55,9 @@ function RenderData(props) {
         ? f.type === "1ton"
         : path === "/school"
         ? f.type === "school"
-        : path === path
+        : path 
+        // : path === path
+
         ? f.path === path
         : f.country;
     });
@@ -69,13 +71,13 @@ function RenderData(props) {
       })
     ),
   ];
-  const Drops2 = [
-    ...new Set(
-      newData.map((ln) => {
-        return ln.tech;
-      })
-    ),
-  ];
+  // const Drops2 = [
+  //   ...new Set(
+  //     newData.map((ln) => {
+  //       return ln.tech;
+  //     })
+  //   ),
+  // ];
 
   const secondData = newData.filter((i) => {
     return i.grade === grade && i.tech === tech;
