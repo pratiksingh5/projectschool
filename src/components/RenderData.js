@@ -55,8 +55,8 @@ function RenderData(props) {
         ? f.type === "1ton"
         : path === "/school"
         ? f.type === "school"
-        // : path 
-        : path === path
+        : path 
+        // : path === path
 
         ? f.path === path
         : f.country;
