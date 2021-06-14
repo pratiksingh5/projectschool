@@ -3155,8 +3155,8 @@
 		"type": "1:N",
 		"country": "India",
 		"grade": "Grade 1 - 4",
-		"tech": "VR Juniors",
-		"data": "1:N/India/Grade 1 - 4/VR Juniors",
+		"tech": "3D Coding VR",
+		"data": "1:N/India/Grade 1 - 4/3D Coding with VR",
 		"links1": [
             {
                 "link": [
@@ -3415,7 +3415,7 @@
                 ]
             }
         ],
-        "path": "/1:N/India"
+        "path": "/1-N/India"
     },
 
 	
