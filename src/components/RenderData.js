@@ -111,12 +111,12 @@ function RenderData(props) {
             id="grade"
             placeholder="Grade"
             onChange={(e) => {
-              console.log(e.target.value);
+              // console.log(e.target.value);
               setGrade(e.target.value);
             }}
             onClick={(e) => setGrade(e.target.value)}
           >
-            {console.log(path)}
+            
 
             <option value="">Select Grade</option>
             {Drops1.map((d) => {
@@ -128,7 +128,7 @@ function RenderData(props) {
             name="tech"
             id="tech"
             onChange={(e) => {
-              console.log(e.target.value);
+              // console.log(e.target.value);
               setTech(e.target.value);
             }}
             onClick={(e) => setTech(e.target.value)}
@@ -167,7 +167,7 @@ function RenderData(props) {
                               <Button
                                 variant="contained"
                                 onClick={(e) => {
-                                  console.log(l1);
+                                  // console.log(l1);
                                 }}
                                 className={classes.btnStyle}
                                 color="primary"
@@ -227,7 +227,7 @@ function RenderData(props) {
                     <AccordionDetails className={classes.details}>
                       {i.links2
                         ? i.links2.map((l1, index) => {
-                          console.log(l1)
+                          // console.log(l1)
                             return (
                               <Button
                                 variant="contained"
@@ -301,7 +301,7 @@ function RenderData(props) {
 			
             {newLinks.map((n,i) => {
 				
-              console.log(n);
+              // console.log(n);
               return (
                 <>
                   <div className="box">
