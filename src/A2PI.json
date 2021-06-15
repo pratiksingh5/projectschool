@@ -2186,7 +2186,7 @@
 		"country": "India",
 		"grade": "Grade 7 - 8",
 		"tech": "Web Development",
-		"data": "1:1/India/Grade 5 - 6/Web Development",
+		"data": "1:1/India/Grade 7 - 8/Web Development",
 		"links1": [
 			{
 				"link": [
@@ -2478,14 +2478,7 @@
 		"https://drive.google.com/file/d/1qVroftvzLUbMTspSbypnU8PR9U8rfNYH/view?usp=sharing"],
 		"path": "/1-1/India"
 	},
-	{
-		"type": "1to1",
-		"country": "India",
-		"grade": "Grade 7 - 8",
-		"tech": "Web Development",
-		"data": "1to1/india/7-8/web",
-		"path": "/1-1/India"
-	},
+	
 	{
 		"type": "1to1",
 		"country": "India",
