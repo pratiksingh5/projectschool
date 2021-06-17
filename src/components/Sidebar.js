@@ -54,8 +54,8 @@ const Sidebar = () => {
 				<SidebarNav sidebar={sidebar}>
 					<SidebarWrap>
 						<NavIcon to="/" onClick={() => window.location.reload()}>
-							<img className="logo" width="210px" src={logo} alt="logo"></img>
-							{/* <h2>LOGO</h2> */}
+							{/* <img className="logo" width="210px" src={logo} alt="logo"></img> */}
+							<h2>LOGO</h2>
 						</NavIcon>
 						{SidebarData.map((item, index) => {
 							return <SubMenu item={item} key={index} />
